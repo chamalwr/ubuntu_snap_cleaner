@@ -1,1 +1,5 @@
-#Ubuntu Snap Cleaner
+# Ubuntu Snap Cleaner
+
+```
+sudo ./clean_snap.sh
+```
